@@ -4,7 +4,7 @@ metadata:
   name: helloworld-go-2
   namespace: default
   labels:                 # Add labels to match with a Delivery
-    app: my-test-2
+    app: my-test-3
 spec:
   template:
     spec:
